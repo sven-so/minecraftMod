@@ -7,7 +7,7 @@
       "item": "minecraft:iron_block"
     },
     "_": {
-      "item": "minecraft:orange_dye"
+      "item": "minecraft:yellow_dye"
     },
     "/": {
       "item": "minecraft:glass_bottle"
@@ -20,6 +20,6 @@
   ],
   "result": {
     "count": 1,
-    "item": "paulberger_mod:paulberger_peach"
+    "item": "paulberger_mod:paulberger_lemon"
   }
 }

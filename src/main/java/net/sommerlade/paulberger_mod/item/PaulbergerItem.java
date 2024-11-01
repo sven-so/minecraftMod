@@ -12,7 +12,6 @@ public class PaulbergerItem  extends Item {
     public PaulbergerItem(Item.Properties pProperties) {
         super(pProperties);
     }
-
     public @NotNull SoundEvent getEatingSound() {
         return SoundEvents.HONEY_DRINK;
     }
