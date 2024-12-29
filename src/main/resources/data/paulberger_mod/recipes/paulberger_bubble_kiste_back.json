@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "group": "planks",
+  "key": {
+    "_": {
+      "item": "paulberger_mod:paulberger_bubble_kiste"
+    }
+  },
+  "pattern": [
+    "   ",
+    " _ ",
+    "   "
+  ],
+  "result": {
+    "count": 12,
+    "item": "paulberger_mod:paulberger_bubble"
+  }
+}

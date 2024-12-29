@@ -21,6 +21,8 @@ public class ModItemInit {
             .rarity(Rarity.EPIC)
             .stacksTo(16)
             .fireResistant();
+    public static final RegistryObject<Item> PAULBERGER_BUBBLE_KISTE = ITEMS.register("paulberger_bubble_kiste", () ->
+            new Item(properties));
     public static final RegistryObject<Item> PAULBERGER_PEACH = ITEMS.register("paulberger_peach", () ->
         new PaulbergerItem(properties));
     public static final RegistryObject<Item> PAULBERGER_LEMON = ITEMS.register("paulberger_lemon", () ->

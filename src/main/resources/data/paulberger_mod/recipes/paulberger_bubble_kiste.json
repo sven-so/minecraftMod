@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "group": "planks",
+  "key": {
+    "#": {
+      "item": "minecraft:oak_planks"
+    },
+    "_": {
+      "item": "paulberger_mod:paulberger_bubble"
+    }
+  },
+  "pattern": [
+    "   ",
+    "___",
+    "###"
+  ],
+  "result": {
+    "count": 1,
+    "item": "paulberger_mod:paulberger_bubble_kiste"
+  }
+}

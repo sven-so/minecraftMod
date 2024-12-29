@@ -20,6 +20,7 @@ public class ModCreativeModTab {
                     .title(Component.translatable("creativeTab.paulberger_tab"))
                     .displayItems((itemDisplayParameters, output) -> {
                         output.accept(ModItemInit.PAULBERGER_PEACH.get());
+                        output.accept(ModItemInit.PAULBERGER_BUBBLE_KISTE.get());
                         output.accept(ModItemInit.PAULBERGER_LEMON.get());
                         output.accept(ModItemInit.PAULBERGER_BUBBLE.get());
                     })
